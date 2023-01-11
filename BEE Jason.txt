@@ -39,7 +39,7 @@ STRING Adam?
 ENTER
 STRING Can you believe this is happening?
 ENTER
-STRING STRING I can't.
+STRING I can't.
 ENTER
 STRING I'll pick you up.
 ENTER
